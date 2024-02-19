@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataAPI", "ODataAPI\ODataAPI.csproj", "{1B85B7A4-C2A2-4CF5-86AD-FA015CDE4F00}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dot7.OData.Demo", "Donet7API-OData-v8-Demo-master\Dot7.OData.Demo.csproj", "{B28FED88-17C5-440B-AC95-1F42AB3B6511}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B85B7A4-C2A2-4CF5-86AD-FA015CDE4F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B85B7A4-C2A2-4CF5-86AD-FA015CDE4F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B85B7A4-C2A2-4CF5-86AD-FA015CDE4F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B85B7A4-C2A2-4CF5-86AD-FA015CDE4F00}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B28FED88-17C5-440B-AC95-1F42AB3B6511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B28FED88-17C5-440B-AC95-1F42AB3B6511}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B28FED88-17C5-440B-AC95-1F42AB3B6511}.Release|Any CPU.ActiveCfg = Release|Any CPU
